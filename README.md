@@ -14,7 +14,7 @@
 ### backend part
 
 * built restapi using nodejs and mongodb as database .
-* used jwt (json web token) for authentication process .
+* used jwt (json web token) for authentication process and also used bcrypt to encrypt the passwords of users.
 * used mongoose for interaction with database .
 * Implemented all the CRUD methods for users and gave permissions to user add his own skills .
 * used socket.io for developing one to one chat option .
