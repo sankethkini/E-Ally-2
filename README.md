@@ -24,3 +24,7 @@
 * used reactjs for the frontend.
 * used axios to get data from restapi.
 * used bootstrap4 for designing the website.
+
+
+### demo video
+https://youtu.be/Fa6tZ5waxhk
